@@ -28,7 +28,6 @@ hi Title        guifg=magenta               gui=none
 hi WarningMsg   guifg=red
 hi WildMenu     guifg=yellow  guibg=black
 hi ModeMsg      guifg=#22cce2
-hi MoreMsg
 hi Question     guifg=green                 gui=none
 hi NonText      guifg=red     guibg=#101010
 
@@ -46,7 +45,7 @@ hi LineNr       guifg=#90f020
 hi SignColumn   guifg=#808080 guibg=#000060
 hi MatchParen   guifg=fg      guibg=#804080
 
-hi DiffAdd                      guibg=darkblue                                      
+hi DiffAdd                      guibg=darkblue
 hi DiffChange                   guibg=#440033
 hi DiffDelete   guifg=darkblue  guibg=#000000   gui=bold
 hi DiffText                     guibg=#880000   gui=none
