@@ -58,7 +58,7 @@ hi lCursor      guifg=#ffffff guibg=#000000
 hi JpSpace guibg=#808080
 au BufRead,BufNew * match JpSpace /　/
 
-hi Comment      guifg=#608060
+hi Comment      guifg=#80a0ff guibg=#202020
 hi Constant     guifg=#ff8080
 hi Special      guifg=orange  gui=none
 hi Identifier   guifg=#808080 guibg=#101010
