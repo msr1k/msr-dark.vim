@@ -70,7 +70,7 @@ hi Ignore       guifg=bg
 hi Function     guifg=#80c0c0
 hi Structure    guifg=#80c080
 
-hi Pmenu        guibg=#222222
+hi Pmenu        guibg=#383838
 hi PmenuSel     guibg=#8cd0d3 guifg=#666666
 hi PmenuSbar    guibg=#333333
 
