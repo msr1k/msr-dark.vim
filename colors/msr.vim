@@ -75,4 +75,4 @@ hi PmenuSel     guibg=#8cd0d3 guifg=#666666
 hi PmenuSbar    guibg=#333333
 
 """ coc.nvim related settings
-hi CocWarningHighlight guibg=#775555
+hi CocWarningHighlight guibg=#443322
