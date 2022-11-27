@@ -77,5 +77,8 @@ hi PmenuSbar    guibg=#333333
 """ coc.nvim related settings
 hi CocWarningHighlight guibg=#443322
 hi CocErrorHighlight   guibg=#552222
+" coc-yank related settings
+hi HighlightedyankRegion guibg=#13354A
 " Workaround for CocWarningHighlight override issue (https://github.com/neoclide/coc.nvim/issues/3218)
 hi CocFadeOut          guibg=#443322
+
