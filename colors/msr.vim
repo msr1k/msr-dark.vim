@@ -29,7 +29,7 @@ hi WarningMsg   guifg=red
 hi WildMenu     guifg=yellow  guibg=black
 hi ModeMsg      guifg=#22cce2
 hi Question     guifg=green                 gui=none
-hi NonText      guifg=red     guibg=#101010
+hi NonText      guifg=#804040 guibg=#101010
 
 hi StatusLine   guifg=#EEEEEE guibg=#666677 gui=none
 hi StatusLineNC guifg=#111111 guibg=#666666 gui=none
